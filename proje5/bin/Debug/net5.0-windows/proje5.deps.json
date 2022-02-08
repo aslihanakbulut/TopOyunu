@@ -1,0 +1,34 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "proje5/1.0.0": {
+        "runtime": {
+          "proje5.dll": {}
+        },
+        "resources": {
+          "aa/proje5.resources.dll": {
+            "locale": "aa"
+          },
+          "ko-KP/proje5.resources.dll": {
+            "locale": "ko-KP"
+          },
+          "vai-Vaii-LR/proje5.resources.dll": {
+            "locale": "vai-Vaii-LR"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "proje5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
